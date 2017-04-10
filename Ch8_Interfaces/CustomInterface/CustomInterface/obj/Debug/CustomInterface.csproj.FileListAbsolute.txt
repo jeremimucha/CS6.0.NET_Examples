@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomInterface\CustomInterface\bin\Debug\CustomInterface.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomInterface\CustomInterface\bin\Debug\CustomInterface.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomInterface\CustomInterface\obj\Debug\CustomInterface.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomInterface\CustomInterface\obj\Debug\CustomInterface.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomInterface\CustomInterface\obj\Debug\CustomInterface.pdb

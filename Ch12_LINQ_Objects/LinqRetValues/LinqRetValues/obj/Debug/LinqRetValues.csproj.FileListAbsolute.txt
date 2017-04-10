@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqRetValues\LinqRetValues\bin\Debug\LinqRetValues.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqRetValues\LinqRetValues\obj\Debug\LinqRetValues.pdb

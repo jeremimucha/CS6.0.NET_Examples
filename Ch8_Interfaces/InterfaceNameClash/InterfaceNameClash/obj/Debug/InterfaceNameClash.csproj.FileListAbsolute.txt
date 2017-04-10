@@ -1,0 +1,5 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\InterfaceNameClash\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\InterfaceNameClash\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb

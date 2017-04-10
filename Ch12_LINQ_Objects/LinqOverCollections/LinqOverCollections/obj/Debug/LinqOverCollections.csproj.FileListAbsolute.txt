@@ -1,0 +1,5 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqOverCollections\LinqOverCollections\bin\Debug\LinqOverCollections.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqOverCollections\LinqOverCollections\bin\Debug\LinqOverCollections.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqOverCollections\LinqOverCollections\bin\Debug\LinqOverCollections.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqOverCollections\LinqOverCollections\obj\Debug\LinqOverCollections.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqOverCollections\LinqOverCollections\obj\Debug\LinqOverCollections.pdb

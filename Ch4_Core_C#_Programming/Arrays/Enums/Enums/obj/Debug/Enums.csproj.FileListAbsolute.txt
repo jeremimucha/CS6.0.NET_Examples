@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch4_Core_C#_Programming\Arrays\Enums\Enums\obj\Debug\Enums.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch4_Core_C#_Programming\Arrays\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch4_Core_C#_Programming\Arrays\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch4_Core_C#_Programming\Arrays\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch4_Core_C#_Programming\Arrays\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch4_Core_C#_Programming\Arrays\Enums\Enums\obj\Debug\Enums.pdb

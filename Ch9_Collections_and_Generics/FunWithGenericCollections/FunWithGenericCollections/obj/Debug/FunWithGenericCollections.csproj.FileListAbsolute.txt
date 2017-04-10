@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithGenericCollections\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithGenericCollections\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.pdb

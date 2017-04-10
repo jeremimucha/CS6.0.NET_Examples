@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch3_Core_C#_Programming\Commandline\Commandline\bin\Debug\Commandline.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch3_Core_C#_Programming\Commandline\Commandline\bin\Debug\Commandline.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch3_Core_C#_Programming\Commandline\Commandline\bin\Debug\Commandline.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch3_Core_C#_Programming\Commandline\Commandline\obj\Debug\Commandline.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch3_Core_C#_Programming\Commandline\Commandline\obj\Debug\Commandline.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch3_Core_C#_Programming\Commandline\Commandline\obj\Debug\Commandline.pdb

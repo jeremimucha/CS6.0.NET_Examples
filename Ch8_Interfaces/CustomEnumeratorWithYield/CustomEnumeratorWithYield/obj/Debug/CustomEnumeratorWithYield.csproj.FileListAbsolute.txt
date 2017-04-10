@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomEnumeratorWithYield\CustomEnumeratorWithYield\bin\Debug\CustomEnumeratorWithYield.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch8_Interfaces\CustomEnumeratorWithYield\CustomEnumeratorWithYield\obj\Debug\CustomEnumeratorWithYield.pdb

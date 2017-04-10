@@ -1,0 +1,12 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\obj\Debug\FunWIthLinqExpressions.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\bin\Debug\FunWIthLinqExpressions.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\bin\Debug\FunWIthLinqExpressions.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\bin\Debug\FunWIthLinqExpressions.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\obj\Debug\FunWIthLinqExpressions.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\obj\Debug\FunWIthLinqExpressions.pdb
+G:\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\bin\Debug\FunWIthLinqExpressions.exe.config
+G:\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\bin\Debug\FunWIthLinqExpressions.exe
+G:\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\bin\Debug\FunWIthLinqExpressions.pdb
+G:\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\obj\Debug\FunWIthLinqExpressions.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\obj\Debug\FunWIthLinqExpressions.exe
+G:\C#\C#60_NET46\Ch12_LINQ_Objects\FunWIthLinqExpressions\FunWIthLinqExpressions\obj\Debug\FunWIthLinqExpressions.pdb

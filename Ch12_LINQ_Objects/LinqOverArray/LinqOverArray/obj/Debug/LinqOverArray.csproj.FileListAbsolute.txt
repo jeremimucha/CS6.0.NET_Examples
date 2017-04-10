@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqOverArray\LinqOverArray\bin\Debug\LinqOverArray.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqOverArray\LinqOverArray\obj\Debug\LinqOverArray.pdb

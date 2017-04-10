@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithObservableCollection\FunWithObservableCollection\bin\Debug\FunWithObservableCollection.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch9_Collections_and_Generics\FunWithObservableCollection\FunWithObservableCollection\obj\Debug\FunWithObservableCollection.pdb

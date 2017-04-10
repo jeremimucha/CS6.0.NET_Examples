@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqUsingEnumerable\LinqUsingEnumerable\bin\Debug\LinqUsingEnumerable.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch12_LINQ_Objects\LinqUsingEnumerable\LinqUsingEnumerable\obj\Debug\LinqUsingEnumerable.pdb
