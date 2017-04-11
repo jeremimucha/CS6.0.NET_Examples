@@ -1,0 +1,5 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\CustomAppDomains\CustomAppDomains\bin\Debug\CustomAppDomains.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\CustomAppDomains\CustomAppDomains\bin\Debug\CustomAppDomains.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\CustomAppDomains\CustomAppDomains\bin\Debug\CustomAppDomains.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\CustomAppDomains\CustomAppDomains\obj\Debug\CustomAppDomains.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\CustomAppDomains\CustomAppDomains\obj\Debug\CustomAppDomains.pdb

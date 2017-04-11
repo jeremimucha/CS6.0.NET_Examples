@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\ProcessManipulator\ProcessManipulator\bin\Debug\ProcessManipulator.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\ProcessManipulator\ProcessManipulator\obj\Debug\ProcessManipulator.pdb

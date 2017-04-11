@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\DefaultAppDomainApp\DefaultAppDomainApp\bin\Debug\DefaultAppDomainApp.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch17_Processes_AppDomains_ObjectContexs\DefaultAppDomainApp\DefaultAppDomainApp\obj\Debug\DefaultAppDomainApp.pdb
