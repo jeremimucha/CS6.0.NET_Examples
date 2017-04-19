@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\ThreadStats\ThreadStats\bin\Debug\ThreadStats.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\ThreadStats\ThreadStats\bin\Debug\ThreadStats.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\ThreadStats\ThreadStats\bin\Debug\ThreadStats.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\ThreadStats\ThreadStats\obj\Debug\ThreadStats.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\ThreadStats\ThreadStats\obj\Debug\ThreadStats.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\ThreadStats\ThreadStats\obj\Debug\ThreadStats.pdb

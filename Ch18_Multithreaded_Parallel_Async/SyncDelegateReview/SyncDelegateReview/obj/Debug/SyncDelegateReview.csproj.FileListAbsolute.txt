@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SyncDelegateReview\SyncDelegateReview\bin\Debug\SyncDelegateReview.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SyncDelegateReview\SyncDelegateReview\bin\Debug\SyncDelegateReview.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SyncDelegateReview\SyncDelegateReview\bin\Debug\SyncDelegateReview.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SyncDelegateReview\SyncDelegateReview\obj\Debug\SyncDelegateReview.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SyncDelegateReview\SyncDelegateReview\obj\Debug\SyncDelegateReview.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SyncDelegateReview\SyncDelegateReview\obj\Debug\SyncDelegateReview.pdb

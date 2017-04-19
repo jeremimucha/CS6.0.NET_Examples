@@ -1,0 +1,5 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AsyncDelegate\AsyncDelegate\bin\Debug\AsyncDelegate.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AsyncDelegate\AsyncDelegate\bin\Debug\AsyncDelegate.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AsyncDelegate\AsyncDelegate\bin\Debug\AsyncDelegate.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AsyncDelegate\AsyncDelegate\obj\Debug\AsyncDelegate.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AsyncDelegate\AsyncDelegate\obj\Debug\AsyncDelegate.pdb
