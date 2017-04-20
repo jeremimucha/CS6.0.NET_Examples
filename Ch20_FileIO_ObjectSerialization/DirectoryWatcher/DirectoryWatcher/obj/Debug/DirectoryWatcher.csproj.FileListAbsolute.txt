@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryWatcher\DirectoryWatcher\bin\Debug\DirectoryWatcher.exe.config
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryWatcher\DirectoryWatcher\bin\Debug\DirectoryWatcher.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryWatcher\DirectoryWatcher\bin\Debug\DirectoryWatcher.pdb
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryWatcher\DirectoryWatcher\obj\Debug\DirectoryWatcher.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryWatcher\DirectoryWatcher\obj\Debug\DirectoryWatcher.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryWatcher\DirectoryWatcher\obj\Debug\DirectoryWatcher.pdb

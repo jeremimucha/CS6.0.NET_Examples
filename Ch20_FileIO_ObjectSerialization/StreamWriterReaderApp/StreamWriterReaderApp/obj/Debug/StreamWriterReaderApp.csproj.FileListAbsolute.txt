@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\StreamWriterReaderApp\StreamWriterReaderApp\bin\Debug\StreamWriterReaderApp.exe.config
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\StreamWriterReaderApp\StreamWriterReaderApp\bin\Debug\StreamWriterReaderApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\StreamWriterReaderApp\StreamWriterReaderApp\bin\Debug\StreamWriterReaderApp.pdb
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\StreamWriterReaderApp\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.pdb

@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe.config
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.exe
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\ValueAndReferenceTypes\ValueAndReferenceTypes\bin\Debug\ValueAndReferenceTypes.pdb
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.exe
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.pdb
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\ValueAndReferenceTypes\ValueAndReferenceTypes\obj\Debug\ValueAndReferenceTypes.csprojResolveAssemblyReference.cache

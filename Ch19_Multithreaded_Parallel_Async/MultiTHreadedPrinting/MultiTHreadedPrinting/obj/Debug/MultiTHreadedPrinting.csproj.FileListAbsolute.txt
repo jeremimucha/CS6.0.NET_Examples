@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MultiTHreadedPrinting\MultiTHreadedPrinting\bin\Debug\MultiTHreadedPrinting.exe.config
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MultiTHreadedPrinting\MultiTHreadedPrinting\bin\Debug\MultiTHreadedPrinting.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MultiTHreadedPrinting\MultiTHreadedPrinting\bin\Debug\MultiTHreadedPrinting.pdb
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MultiTHreadedPrinting\MultiTHreadedPrinting\obj\Debug\MultiTHreadedPrinting.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MultiTHreadedPrinting\MultiTHreadedPrinting\obj\Debug\MultiTHreadedPrinting.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MultiTHreadedPrinting\MultiTHreadedPrinting\obj\Debug\MultiTHreadedPrinting.pdb

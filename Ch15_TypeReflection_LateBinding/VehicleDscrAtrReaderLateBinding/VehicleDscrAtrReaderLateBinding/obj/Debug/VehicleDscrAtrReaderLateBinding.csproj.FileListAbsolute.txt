@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\VehicleDscrAtrReaderLateBinding\VehicleDscrAtrReaderLateBinding\bin\Debug\VehicleDscrAtrReaderLateBinding.exe.config
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\VehicleDscrAtrReaderLateBinding\VehicleDscrAtrReaderLateBinding\bin\Debug\VehicleDscrAtrReaderLateBinding.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\VehicleDscrAtrReaderLateBinding\VehicleDscrAtrReaderLateBinding\bin\Debug\VehicleDscrAtrReaderLateBinding.pdb
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\VehicleDscrAtrReaderLateBinding\VehicleDscrAtrReaderLateBinding\obj\Debug\VehicleDscrAtrReaderLateBinding.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\VehicleDscrAtrReaderLateBinding\VehicleDscrAtrReaderLateBinding\obj\Debug\VehicleDscrAtrReaderLateBinding.pdb

@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.exe.config
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.exe
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\FinalizableDisposableClass\FinalizableDisposableClass\bin\Debug\FinalizableDisposableClass.pdb
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.exe
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\FinalizableDisposableClass\FinalizableDisposableClass\obj\Debug\FinalizableDisposableClass.pdb

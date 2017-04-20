@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CommonSnappableTypes\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.dll
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CommonSnappableTypes\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.pdb
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.dll
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.pdb

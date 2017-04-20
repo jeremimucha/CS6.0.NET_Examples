@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.pdb

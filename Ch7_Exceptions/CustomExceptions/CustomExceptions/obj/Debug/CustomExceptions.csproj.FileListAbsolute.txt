@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch7_Exceptions\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe.config
+G:\C#\C#60_NET46\Ch7_Exceptions\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.exe
+G:\C#\C#60_NET46\Ch7_Exceptions\CustomExceptions\CustomExceptions\bin\Debug\CustomExceptions.pdb
+G:\C#\C#60_NET46\Ch7_Exceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch7_Exceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.exe
+G:\C#\C#60_NET46\Ch7_Exceptions\CustomExceptions\CustomExceptions\obj\Debug\CustomExceptions.pdb

@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe.config
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.exe
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleDispose\SimpleDispose\bin\Debug\SimpleDispose.pdb
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.exe
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleDispose\SimpleDispose\obj\Debug\SimpleDispose.pdb

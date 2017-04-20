@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleSerialize\SimpleSerialize\bin\Debug\SimpleSerialize.exe.config
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleSerialize\SimpleSerialize\bin\Debug\SimpleSerialize.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleSerialize\SimpleSerialize\bin\Debug\SimpleSerialize.pdb
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleSerialize\SimpleSerialize\obj\Debug\SimpleSerialize.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleSerialize\SimpleSerialize\obj\Debug\SimpleSerialize.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleSerialize\SimpleSerialize\obj\Debug\SimpleSerialize.pdb

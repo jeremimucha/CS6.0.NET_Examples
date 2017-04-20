@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\LazyObjectInstantiation\LazyObjectInstantiation\bin\Debug\LazyObjectInstantiation.exe.config
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\LazyObjectInstantiation\LazyObjectInstantiation\bin\Debug\LazyObjectInstantiation.exe
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\LazyObjectInstantiation\LazyObjectInstantiation\bin\Debug\LazyObjectInstantiation.pdb
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\LazyObjectInstantiation\LazyObjectInstantiation\obj\Debug\LazyObjectInstantiation.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\LazyObjectInstantiation\LazyObjectInstantiation\obj\Debug\LazyObjectInstantiation.exe
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\LazyObjectInstantiation\LazyObjectInstantiation\obj\Debug\LazyObjectInstantiation.pdb

@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch3_Core_C#_Programming\DataTypes\DataTypes\bin\Debug\DataTypes.exe.config
+G:\C#\C#60_NET46\Ch3_Core_C#_Programming\DataTypes\DataTypes\bin\Debug\DataTypes.exe
+G:\C#\C#60_NET46\Ch3_Core_C#_Programming\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
+G:\C#\C#60_NET46\Ch3_Core_C#_Programming\DataTypes\DataTypes\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch3_Core_C#_Programming\DataTypes\DataTypes\obj\Debug\DataTypes.exe
+G:\C#\C#60_NET46\Ch3_Core_C#_Programming\DataTypes\DataTypes\obj\Debug\DataTypes.pdb

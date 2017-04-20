@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\ActionAndFuncDelegates\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\ActionAndFuncDelegates\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.pdb

@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CarDelegate\CarDelegate\bin\Debug\CarDelegate.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CarDelegate\CarDelegate\bin\Debug\CarDelegate.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CarDelegate\CarDelegate\bin\Debug\CarDelegate.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CarDelegate\CarDelegate\obj\Debug\CarDelegate.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CarDelegate\CarDelegate\obj\Debug\CarDelegate.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CarDelegate\CarDelegate\obj\Debug\CarDelegate.pdb

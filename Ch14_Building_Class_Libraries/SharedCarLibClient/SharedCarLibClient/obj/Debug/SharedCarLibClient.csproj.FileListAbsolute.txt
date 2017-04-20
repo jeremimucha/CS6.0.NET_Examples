@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\SharedCarLibClient\SharedCarLibClient\bin\Debug\SharedCarLibClient.exe.config
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\SharedCarLibClient\SharedCarLibClient\bin\Debug\SharedCarLibClient.exe
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\SharedCarLibClient\SharedCarLibClient\bin\Debug\SharedCarLibClient.pdb
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.exe
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\SharedCarLibClient\SharedCarLibClient\obj\Debug\SharedCarLibClient.pdb

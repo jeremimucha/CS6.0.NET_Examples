@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch22_ADO.NET_Disconnected\SimpleDataSet\SimpleDataSet\bin\Debug\SimpleDataSet.exe.config
+G:\C#\C#60_NET46\Ch22_ADO.NET_Disconnected\SimpleDataSet\SimpleDataSet\bin\Debug\SimpleDataSet.exe
+G:\C#\C#60_NET46\Ch22_ADO.NET_Disconnected\SimpleDataSet\SimpleDataSet\bin\Debug\SimpleDataSet.pdb
+G:\C#\C#60_NET46\Ch22_ADO.NET_Disconnected\SimpleDataSet\SimpleDataSet\obj\Debug\SimpleDataSet.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch22_ADO.NET_Disconnected\SimpleDataSet\SimpleDataSet\obj\Debug\SimpleDataSet.exe
+G:\C#\C#60_NET46\Ch22_ADO.NET_Disconnected\SimpleDataSet\SimpleDataSet\obj\Debug\SimpleDataSet.pdb

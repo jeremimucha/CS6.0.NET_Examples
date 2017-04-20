@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\ThreadPoolExample\ThreadPoolExample\bin\Debug\ThreadPoolExample.exe.config
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\ThreadPoolExample\ThreadPoolExample\bin\Debug\ThreadPoolExample.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\ThreadPoolExample\ThreadPoolExample\bin\Debug\ThreadPoolExample.pdb
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\ThreadPoolExample\ThreadPoolExample\obj\Debug\ThreadPoolExample.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\ThreadPoolExample\ThreadPoolExample\obj\Debug\ThreadPoolExample.pdb

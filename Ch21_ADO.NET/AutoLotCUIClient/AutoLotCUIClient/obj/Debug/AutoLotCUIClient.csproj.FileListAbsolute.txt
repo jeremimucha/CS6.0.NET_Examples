@@ -1,0 +1,8 @@
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotCUIClient.exe.config
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotCUIClient.exe
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotCUIClient.pdb
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotDAL.dll
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotDAL.pdb
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.exe
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.pdb

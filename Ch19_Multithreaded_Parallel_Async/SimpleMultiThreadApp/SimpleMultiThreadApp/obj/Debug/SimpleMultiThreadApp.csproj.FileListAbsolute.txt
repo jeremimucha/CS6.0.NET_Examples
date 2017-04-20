@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SimpleMultiThreadApp\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SimpleMultiThreadApp\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SimpleMultiThreadApp\SimpleMultiThreadApp\bin\Debug\SimpleMultiThreadApp.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\SimpleMultiThreadApp\SimpleMultiThreadApp\obj\Debug\SimpleMultiThreadApp.pdb

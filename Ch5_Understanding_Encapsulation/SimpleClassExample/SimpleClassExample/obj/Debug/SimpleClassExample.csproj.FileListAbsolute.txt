@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb

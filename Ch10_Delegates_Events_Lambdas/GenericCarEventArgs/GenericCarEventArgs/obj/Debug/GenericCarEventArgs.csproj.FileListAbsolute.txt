@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\GenericCarEventArgs\GenericCarEventArgs\bin\Debug\GenericCarEventArgs.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\GenericCarEventArgs\GenericCarEventArgs\bin\Debug\GenericCarEventArgs.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\GenericCarEventArgs\GenericCarEventArgs\bin\Debug\GenericCarEventArgs.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\GenericCarEventArgs.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\GenericCarEventArgs\GenericCarEventArgs\obj\Debug\GenericCarEventArgs.pdb

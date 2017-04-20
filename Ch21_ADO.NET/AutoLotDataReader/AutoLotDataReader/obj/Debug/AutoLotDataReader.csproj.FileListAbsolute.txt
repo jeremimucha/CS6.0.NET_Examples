@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe.config
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.pdb
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.exe
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.pdb

@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\AttributedCarLibrary\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.dll
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\AttributedCarLibrary\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.pdb
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.dll
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\AttributedCarLibrary\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.pdb

@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Introducing_C#\ConsoleApp1\ConsoleApp1\bin\Debug\BasicConsoleIO.exe.config
+G:\C#\C#60_NET46\Introducing_C#\ConsoleApp1\ConsoleApp1\bin\Debug\BasicConsoleIO.exe
+G:\C#\C#60_NET46\Introducing_C#\ConsoleApp1\ConsoleApp1\bin\Debug\BasicConsoleIO.pdb
+G:\C#\C#60_NET46\Introducing_C#\ConsoleApp1\ConsoleApp1\obj\Debug\BasicConsoleIO.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Introducing_C#\ConsoleApp1\ConsoleApp1\obj\Debug\BasicConsoleIO.exe
+G:\C#\C#60_NET46\Introducing_C#\ConsoleApp1\ConsoleApp1\obj\Debug\BasicConsoleIO.pdb

@@ -1,0 +1,8 @@
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\CSharpAsync\CSharpAsync\obj\Debug\CSharpAsync.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\CSharpAsync\CSharpAsync\obj\Debug\CSharpAsync.Properties.Resources.resources
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\CSharpAsync\CSharpAsync\obj\Debug\CSharpAsync.csproj.GenerateResource.Cache
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\CSharpAsync\CSharpAsync\bin\Debug\CSharpAsync.exe.config
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\CSharpAsync\CSharpAsync\bin\Debug\CSharpAsync.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\CSharpAsync\CSharpAsync\bin\Debug\CSharpAsync.pdb
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\CSharpAsync\CSharpAsync\obj\Debug\CSharpAsync.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\CSharpAsync\CSharpAsync\obj\Debug\CSharpAsync.pdb

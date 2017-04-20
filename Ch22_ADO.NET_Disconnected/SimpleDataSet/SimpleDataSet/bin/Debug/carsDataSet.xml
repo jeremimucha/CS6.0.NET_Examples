@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Car_x0020_Inventory>
+  <Inventory>
+    <CarID>1</CarID>
+    <Make>BMW</Make>
+    <Color>Black</Color>
+    <PetName>Hamlet</PetName>
+  </Inventory>
+  <Inventory>
+    <CarID>2</CarID>
+    <Make>Saab</Make>
+    <Color>Red</Color>
+    <PetName>Sea Breeze</PetName>
+  </Inventory>
+</Car_x0020_Inventory>

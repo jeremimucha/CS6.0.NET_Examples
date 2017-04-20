@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\AutoProps\AutoProps\bin\Debug\AutoProps.exe.config
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\AutoProps\AutoProps\bin\Debug\AutoProps.exe
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\AutoProps\AutoProps\bin\Debug\AutoProps.pdb
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\AutoProps\AutoProps\obj\Debug\AutoProps.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\AutoProps\AutoProps\obj\Debug\AutoProps.exe
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\AutoProps\AutoProps\obj\Debug\AutoProps.pdb

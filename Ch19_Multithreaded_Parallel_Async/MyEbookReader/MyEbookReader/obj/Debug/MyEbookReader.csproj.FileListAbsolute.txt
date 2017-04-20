@@ -1,0 +1,9 @@
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MyEbookReader\MyEbookReader\bin\Debug\MyEbookReader.exe.config
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MyEbookReader\MyEbookReader\bin\Debug\MyEbookReader.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MyEbookReader\MyEbookReader\bin\Debug\MyEbookReader.pdb
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MyEbookReader\MyEbookReader\obj\Debug\MyEbookReader.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MyEbookReader\MyEbookReader\obj\Debug\MyEBookReader.MainForm.resources
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MyEbookReader\MyEbookReader\obj\Debug\MyEbookReader.Properties.Resources.resources
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MyEbookReader\MyEbookReader\obj\Debug\MyEbookReader.csproj.GenerateResource.Cache
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MyEbookReader\MyEbookReader\obj\Debug\MyEbookReader.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\MyEbookReader\MyEbookReader\obj\Debug\MyEbookReader.pdb

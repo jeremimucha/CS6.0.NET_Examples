@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\ApplyingAttributes\ApplyingAttributes\bin\Debug\ApplyingAttributes.exe.config
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\ApplyingAttributes\ApplyingAttributes\bin\Debug\ApplyingAttributes.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\ApplyingAttributes\ApplyingAttributes\bin\Debug\ApplyingAttributes.pdb
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\ApplyingAttributes\ApplyingAttributes\obj\Debug\ApplyingAttributes.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\ApplyingAttributes\ApplyingAttributes\obj\Debug\ApplyingAttributes.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\ApplyingAttributes\ApplyingAttributes\obj\Debug\ApplyingAttributes.pdb

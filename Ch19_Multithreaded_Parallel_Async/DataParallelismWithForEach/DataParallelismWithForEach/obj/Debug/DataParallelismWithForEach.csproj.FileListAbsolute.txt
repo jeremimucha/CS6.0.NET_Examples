@@ -1,0 +1,9 @@
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\DataParallelismWithForEach\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe.config
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\DataParallelismWithForEach\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\DataParallelismWithForEach\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.pdb
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.MainForm.resources
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.Properties.Resources.resources
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.csproj.GenerateResource.Cache
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\DataParallelismWithForEach\DataParallelismWithForEach\obj\Debug\DataParallelismWithForEach.pdb

@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\FileInfoApp\FileInfoApp\bin\Debug\FileInfoApp.exe.config
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\FileInfoApp\FileInfoApp\bin\Debug\FileInfoApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\FileInfoApp\FileInfoApp\bin\Debug\FileInfoApp.pdb
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\FileInfoApp\FileInfoApp\obj\Debug\FileInfoApp.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\FileInfoApp\FileInfoApp\obj\Debug\FileInfoApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\FileInfoApp\FileInfoApp\obj\Debug\FileInfoApp.pdb

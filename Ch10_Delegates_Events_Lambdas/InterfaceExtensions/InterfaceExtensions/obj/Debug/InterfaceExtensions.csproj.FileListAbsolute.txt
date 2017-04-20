@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\InterfaceExtensions\InterfaceExtensions\bin\Debug\InterfaceExtensions.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\InterfaceExtensions\InterfaceExtensions\obj\Debug\InterfaceExtensions.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\InterfaceExtensions\InterfaceExtensions\obj\Debug\InterfaceExtensions.pdb

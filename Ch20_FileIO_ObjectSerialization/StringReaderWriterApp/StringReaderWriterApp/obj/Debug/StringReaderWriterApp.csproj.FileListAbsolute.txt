@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\StringReaderWriterApp\StringReaderWriterApp\bin\Debug\StringReaderWriterApp.exe.config
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\StringReaderWriterApp\StringReaderWriterApp\bin\Debug\StringReaderWriterApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\StringReaderWriterApp\StringReaderWriterApp\bin\Debug\StringReaderWriterApp.pdb
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\StringReaderWriterApp\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\StringReaderWriterApp\StringReaderWriterApp\obj\Debug\StringReaderWriterApp.pdb

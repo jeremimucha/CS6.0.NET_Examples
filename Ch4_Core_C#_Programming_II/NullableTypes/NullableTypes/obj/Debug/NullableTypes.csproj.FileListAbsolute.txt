@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe.config
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\NullableTypes\NullableTypes\bin\Debug\NullableTypes.pdb
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\NullableTypes\NullableTypes\obj\Debug\NullableTypes.exe
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\NullableTypes\NullableTypes\obj\Debug\NullableTypes.pdb

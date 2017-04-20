@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DriveInfoApp\DriveInfoApp\bin\Debug\DriveInfoApp.exe.config
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DriveInfoApp\DriveInfoApp\bin\Debug\DriveInfoApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DriveInfoApp\DriveInfoApp\bin\Debug\DriveInfoApp.pdb
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DriveInfoApp\DriveInfoApp\obj\Debug\DriveInfoApp.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DriveInfoApp\DriveInfoApp\obj\Debug\DriveInfoApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DriveInfoApp\DriveInfoApp\obj\Debug\DriveInfoApp.pdb

@@ -1,0 +1,8 @@
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe.config
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.exe
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\bin\Debug\CSharpCarClient.pdb
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\bin\Debug\CarLibrary.dll
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\bin\Debug\CarLibrary.pdb
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.exe
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\obj\Debug\CSharpCarClient.pdb

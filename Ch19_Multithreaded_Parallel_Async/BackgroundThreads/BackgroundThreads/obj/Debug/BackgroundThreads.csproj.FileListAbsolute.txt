@@ -1,0 +1,5 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\BackgroundThreads\BackgroundThreads\bin\Debug\BackgroundThreads.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\BackgroundThreads\BackgroundThreads\bin\Debug\BackgroundThreads.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\BackgroundThreads\BackgroundThreads\bin\Debug\BackgroundThreads.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\BackgroundThreads\BackgroundThreads\obj\Debug\BackgroundThreads.pdb

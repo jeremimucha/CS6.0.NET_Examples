@@ -1,0 +1,4 @@
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\AttributedCarLibrary\AttributedCarLibrary\bin\Release\AttributedCarLibrary.dll
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\AttributedCarLibrary\AttributedCarLibrary\bin\Release\AttributedCarLibrary.pdb
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\AttributedCarLibrary\AttributedCarLibrary\obj\Release\AttributedCarLibrary.dll
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\AttributedCarLibrary\AttributedCarLibrary\obj\Release\AttributedCarLibrary.pdb

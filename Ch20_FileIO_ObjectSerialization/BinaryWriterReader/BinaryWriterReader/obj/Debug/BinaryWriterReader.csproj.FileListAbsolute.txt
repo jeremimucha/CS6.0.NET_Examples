@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\BinaryWriterReader\BinaryWriterReader\bin\Debug\BinaryWriterReader.exe.config
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\BinaryWriterReader\BinaryWriterReader\bin\Debug\BinaryWriterReader.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\BinaryWriterReader\BinaryWriterReader\bin\Debug\BinaryWriterReader.pdb
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\BinaryWriterReader\BinaryWriterReader\obj\Debug\BinaryWriterReader.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\BinaryWriterReader\BinaryWriterReader\obj\Debug\BinaryWriterReader.pdb

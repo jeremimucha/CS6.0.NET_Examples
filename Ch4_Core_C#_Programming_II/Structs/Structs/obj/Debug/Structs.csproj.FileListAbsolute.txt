@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\Structs\Structs\bin\Debug\Structs.exe.config
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\Structs\Structs\bin\Debug\Structs.exe
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\Structs\Structs\bin\Debug\Structs.pdb
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\Structs\Structs\obj\Debug\Structs.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\Structs\Structs\obj\Debug\Structs.exe
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\Structs\Structs\obj\Debug\Structs.pdb

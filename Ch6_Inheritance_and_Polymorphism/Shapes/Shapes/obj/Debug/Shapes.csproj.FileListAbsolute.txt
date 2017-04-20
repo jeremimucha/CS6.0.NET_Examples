@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Shapes\Shapes\bin\Debug\Shapes.exe.config
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Shapes\Shapes\bin\Debug\Shapes.exe
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Shapes\Shapes\bin\Debug\Shapes.pdb
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Shapes\Shapes\obj\Debug\Shapes.exe
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Shapes\Shapes\obj\Debug\Shapes.pdb

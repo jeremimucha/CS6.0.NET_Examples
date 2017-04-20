@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CarLibrary\CarLibrary\bin\Debug\CarLibrary.dll
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CarLibrary\CarLibrary\bin\Debug\CarLibrary.pdb
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.dll
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CarLibrary\CarLibrary\obj\Debug\CarLibrary.pdb

@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\UnsafeCode\UnsafeCode\bin\Debug\UnsafeCode.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\UnsafeCode\UnsafeCode\bin\Debug\UnsafeCode.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\UnsafeCode\UnsafeCode\bin\Debug\UnsafeCode.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\UnsafeCode\UnsafeCode\obj\Debug\UnsafeCode.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\UnsafeCode\UnsafeCode\obj\Debug\UnsafeCode.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\UnsafeCode\UnsafeCode\obj\Debug\UnsafeCode.pdb

@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\LambdaMultipleParams\LambdaMultipleParams\bin\Debug\LambdaMultipleParams.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\LambdaMultipleParams\LambdaMultipleParams\bin\Debug\LambdaMultipleParams.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\LambdaMultipleParams\LambdaMultipleParams\bin\Debug\LambdaMultipleParams.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\LambdaMultipleParams\LambdaMultipleParams\obj\Debug\LambdaMultipleParams.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\LambdaMultipleParams\LambdaMultipleParams\obj\Debug\LambdaMultipleParams.pdb

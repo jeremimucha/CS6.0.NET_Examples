@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\FileStreamApp\FileStreamApp\bin\Debug\FileStreamApp.exe.config
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\FileStreamApp\FileStreamApp\bin\Debug\FileStreamApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\FileStreamApp\FileStreamApp\bin\Debug\FileStreamApp.pdb
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\FileStreamApp\FileStreamApp\obj\Debug\FileStreamApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\FileStreamApp\FileStreamApp\obj\Debug\FileStreamApp.pdb

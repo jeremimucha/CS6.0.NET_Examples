@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\FindAll\FindAll\bin\Debug\FindAll.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\FindAll\FindAll\bin\Debug\FindAll.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\FindAll\FindAll\bin\Debug\FindAll.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\FindAll\FindAll\obj\Debug\FindAll.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\FindAll\FindAll\obj\Debug\FindAll.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\FindAll\FindAll\obj\Debug\FindAll.csprojResolveAssemblyReference.cache

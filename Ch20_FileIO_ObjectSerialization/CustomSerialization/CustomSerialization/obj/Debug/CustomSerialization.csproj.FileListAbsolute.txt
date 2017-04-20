@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe.config
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.pdb
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.pdb

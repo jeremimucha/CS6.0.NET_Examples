@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

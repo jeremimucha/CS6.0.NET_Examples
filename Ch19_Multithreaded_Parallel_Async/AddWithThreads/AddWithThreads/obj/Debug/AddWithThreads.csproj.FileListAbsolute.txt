@@ -1,0 +1,5 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AddWithThreads\AddWithThreads\bin\Debug\AddWithThreads.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AddWithThreads\AddWithThreads\bin\Debug\AddWithThreads.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AddWithThreads\AddWithThreads\bin\Debug\AddWithThreads.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AddWithThreads\AddWithThreads\obj\Debug\AddWithThreads.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AddWithThreads\AddWithThreads\obj\Debug\AddWithThreads.pdb

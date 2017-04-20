@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch16_DynamicTyping\LateBindingWithDynamic\LateBindingWithDynamic\bin\Release\LateBindingWithDynamic.exe.config
+G:\C#\C#60_NET46\Ch16_DynamicTyping\LateBindingWithDynamic\LateBindingWithDynamic\bin\Release\LateBindingWithDynamic.exe
+G:\C#\C#60_NET46\Ch16_DynamicTyping\LateBindingWithDynamic\LateBindingWithDynamic\bin\Release\LateBindingWithDynamic.pdb
+G:\C#\C#60_NET46\Ch16_DynamicTyping\LateBindingWithDynamic\LateBindingWithDynamic\obj\Release\LateBindingWithDynamic.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch16_DynamicTyping\LateBindingWithDynamic\LateBindingWithDynamic\obj\Release\LateBindingWithDynamic.exe
+G:\C#\C#60_NET46\Ch16_DynamicTyping\LateBindingWithDynamic\LateBindingWithDynamic\obj\Release\LateBindingWithDynamic.pdb

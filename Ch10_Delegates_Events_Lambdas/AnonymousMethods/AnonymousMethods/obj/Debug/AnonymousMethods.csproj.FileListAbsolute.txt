@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\AnonymousMethods\AnonymousMethods\bin\Debug\AnonymousMethods.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\AnonymousMethods\AnonymousMethods\bin\Debug\AnonymousMethods.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\AnonymousMethods\AnonymousMethods\bin\Debug\AnonymousMethods.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\AnonymousMethods\AnonymousMethods\obj\Debug\AnonymousMethods.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\AnonymousMethods\AnonymousMethods\obj\Debug\AnonymousMethods.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\AnonymousMethods\AnonymousMethods\obj\Debug\AnonymousMethods.pdb

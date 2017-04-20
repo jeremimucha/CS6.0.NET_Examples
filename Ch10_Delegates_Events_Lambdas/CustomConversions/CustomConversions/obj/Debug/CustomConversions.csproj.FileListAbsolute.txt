@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CustomConversions\CustomConversions\bin\Debug\CustomConversions.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CustomConversions\CustomConversions\bin\Debug\CustomConversions.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CustomConversions\CustomConversions\bin\Debug\CustomConversions.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CustomConversions\CustomConversions\obj\Debug\CustomConversions.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CustomConversions\CustomConversions\obj\Debug\CustomConversions.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CustomConversions\CustomConversions\obj\Debug\CustomConversions.pdb

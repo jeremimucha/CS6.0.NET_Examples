@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleFileIO\SimpleFileIO\bin\Debug\SimpleFileIO.exe.config
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleFileIO\SimpleFileIO\bin\Debug\SimpleFileIO.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleFileIO\SimpleFileIO\bin\Debug\SimpleFileIO.pdb
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleFileIO\SimpleFileIO\obj\Debug\SimpleFileIO.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleFileIO\SimpleFileIO\obj\Debug\SimpleFileIO.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\SimpleFileIO\SimpleFileIO\obj\Debug\SimpleFileIO.pdb

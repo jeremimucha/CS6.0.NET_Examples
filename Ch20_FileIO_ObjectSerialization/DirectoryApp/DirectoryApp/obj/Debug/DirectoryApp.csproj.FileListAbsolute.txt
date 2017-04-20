@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe.config
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryApp\DirectoryApp\bin\Debug\DirectoryApp.pdb
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.exe
+G:\C#\C#60_NET46\Ch20_FileIO_ObjectSerialization\DirectoryApp\DirectoryApp\obj\Debug\DirectoryApp.pdb

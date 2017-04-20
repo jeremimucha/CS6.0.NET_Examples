@@ -1,0 +1,1 @@
+G:\C#\C#60_NET46\Ch5_Understanding_Encapsulation\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\CarEventArgs\CarEventArgs\obj\Debug\CarEventArgs.csprojResolveAssemblyReference.cache

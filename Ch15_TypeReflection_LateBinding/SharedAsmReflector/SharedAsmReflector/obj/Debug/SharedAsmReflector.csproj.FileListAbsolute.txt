@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\SharedAsmReflector\SharedAsmReflector\bin\Debug\SharedAsmReflector.exe.config
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\SharedAsmReflector\SharedAsmReflector\bin\Debug\SharedAsmReflector.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\SharedAsmReflector\SharedAsmReflector\bin\Debug\SharedAsmReflector.pdb
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\SharedAsmReflector\SharedAsmReflector\obj\Debug\SharedAsmReflector.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\SharedAsmReflector\SharedAsmReflector\obj\Debug\SharedAsmReflector.pdb

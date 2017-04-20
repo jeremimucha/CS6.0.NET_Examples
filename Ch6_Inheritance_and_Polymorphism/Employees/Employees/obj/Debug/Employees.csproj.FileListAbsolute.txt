@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Employees\Employees\bin\Debug\Employees.exe.config
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Employees\Employees\bin\Debug\Employees.exe
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Employees\Employees\bin\Debug\Employees.pdb
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Employees\Employees\obj\Debug\Employees.exe
+G:\C#\C#60_NET46\Ch6_Inheritance_and_Polymorphism\Employees\Employees\obj\Debug\Employees.pdb

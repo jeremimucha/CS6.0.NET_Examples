@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\GenericDelegate\GenericDelegate\bin\Debug\GenericDelegate.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\GenericDelegate\GenericDelegate\obj\Debug\GenericDelegate.pdb

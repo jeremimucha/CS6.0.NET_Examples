@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch21_ADO.NET\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe.config
+G:\C#\C#60_NET46\Ch21_ADO.NET\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe
+G:\C#\C#60_NET46\Ch21_ADO.NET\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.pdb
+G:\C#\C#60_NET46\Ch21_ADO.NET\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch21_ADO.NET\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.exe
+G:\C#\C#60_NET46\Ch21_ADO.NET\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.pdb

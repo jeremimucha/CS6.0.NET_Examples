@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.exe.config
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\ExternalAssemblyReflector\ExternalAssemblyReflector\bin\Debug\ExternalAssemblyReflector.pdb
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\ExternalAssemblyReflector\ExternalAssemblyReflector\obj\Debug\ExternalAssemblyReflector.pdb

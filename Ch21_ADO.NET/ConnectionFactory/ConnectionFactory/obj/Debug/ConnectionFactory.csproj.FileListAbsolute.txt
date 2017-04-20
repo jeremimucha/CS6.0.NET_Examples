@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch21_ADO.NET\ConnectionFactory\ConnectionFactory\bin\Debug\ConnectionFactory.exe.config
+G:\C#\C#60_NET46\Ch21_ADO.NET\ConnectionFactory\ConnectionFactory\bin\Debug\ConnectionFactory.exe
+G:\C#\C#60_NET46\Ch21_ADO.NET\ConnectionFactory\ConnectionFactory\bin\Debug\ConnectionFactory.pdb
+G:\C#\C#60_NET46\Ch21_ADO.NET\ConnectionFactory\ConnectionFactory\obj\Debug\ConnectionFactory.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch21_ADO.NET\ConnectionFactory\ConnectionFactory\obj\Debug\ConnectionFactory.exe
+G:\C#\C#60_NET46\Ch21_ADO.NET\ConnectionFactory\ConnectionFactory\obj\Debug\ConnectionFactory.pdb

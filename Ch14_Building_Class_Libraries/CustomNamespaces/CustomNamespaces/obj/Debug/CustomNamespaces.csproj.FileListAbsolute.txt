@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CustomNamespaces\CustomNamespaces\bin\Debug\CustomNamespaces.exe.config
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CustomNamespaces\CustomNamespaces\bin\Debug\CustomNamespaces.exe
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CustomNamespaces\CustomNamespaces\bin\Debug\CustomNamespaces.pdb
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CustomNamespaces\CustomNamespaces\obj\Debug\CustomNamespaces.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CustomNamespaces\CustomNamespaces\obj\Debug\CustomNamespaces.exe
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CustomNamespaces\CustomNamespaces\obj\Debug\CustomNamespaces.pdb

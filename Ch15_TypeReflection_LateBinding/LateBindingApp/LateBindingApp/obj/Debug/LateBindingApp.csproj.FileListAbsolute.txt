@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe.config
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\LateBindingApp\LateBindingApp\bin\Debug\LateBindingApp.pdb
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\LateBindingApp\LateBindingApp\obj\Debug\LateBindingApp.pdb

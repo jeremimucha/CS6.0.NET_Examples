@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch16_DynamicTyping\LateBindingWithDynamic\MathLibrary\bin\Release\MathLibrary.dll
+G:\C#\C#60_NET46\Ch16_DynamicTyping\LateBindingWithDynamic\MathLibrary\bin\Release\MathLibrary.pdb
+G:\C#\C#60_NET46\Ch16_DynamicTyping\LateBindingWithDynamic\MathLibrary\obj\Release\MathLibrary.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch16_DynamicTyping\LateBindingWithDynamic\MathLibrary\obj\Release\MathLibrary.dll
+G:\C#\C#60_NET46\Ch16_DynamicTyping\LateBindingWithDynamic\MathLibrary\obj\Release\MathLibrary.pdb

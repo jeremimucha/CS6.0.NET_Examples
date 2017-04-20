@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\AnonymousTypes\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+G:\C#\C#60_NET46\Ch10_Delegates_Events_Lambdas\SimpleDelegate\AnonymousTypes\AnonymousTypes\obj\Debug\AnonymousTypes.pdb

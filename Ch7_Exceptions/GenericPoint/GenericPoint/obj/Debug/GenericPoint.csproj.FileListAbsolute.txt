@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch7_Exceptions\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe.config
+G:\C#\C#60_NET46\Ch7_Exceptions\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe
+G:\C#\C#60_NET46\Ch7_Exceptions\GenericPoint\GenericPoint\bin\Debug\GenericPoint.pdb
+G:\C#\C#60_NET46\Ch7_Exceptions\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch7_Exceptions\GenericPoint\GenericPoint\obj\Debug\GenericPoint.exe
+G:\C#\C#60_NET46\Ch7_Exceptions\GenericPoint\GenericPoint\obj\Debug\GenericPoint.pdb

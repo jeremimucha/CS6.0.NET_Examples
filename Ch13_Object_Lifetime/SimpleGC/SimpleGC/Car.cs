@@ -13,12 +13,14 @@ namespace SimpleGC
 
         public Car() { }
         public Car(string name, int speed)
-        { CurrentSpeed = speed; PetName = name; }
+        {
+            CurrentSpeed = speed;
+            PetName = name;
+        }
 
         public override string ToString()
         {
-            return string.Format("{0} is going {1}",
-                PetName, CurrentSpeed);
+            return string.Format("{0} is going {1} MPH", PetName, CurrentSpeed);
         }
     }
 }

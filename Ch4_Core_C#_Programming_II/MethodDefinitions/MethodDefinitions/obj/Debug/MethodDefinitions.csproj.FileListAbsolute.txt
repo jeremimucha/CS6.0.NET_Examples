@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\MethodDefinitions\MethodDefinitions\bin\Debug\MethodDefinitions.exe.config
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\MethodDefinitions\MethodDefinitions\bin\Debug\MethodDefinitions.exe
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\MethodDefinitions\MethodDefinitions\bin\Debug\MethodDefinitions.pdb
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\MethodDefinitions\MethodDefinitions\obj\Debug\MethodDefinitions.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\MethodDefinitions\MethodDefinitions\obj\Debug\MethodDefinitions.exe
+G:\C#\C#60_NET46\Ch4_Core_C#_Programming_II\MethodDefinitions\MethodDefinitions\obj\Debug\MethodDefinitions.pdb

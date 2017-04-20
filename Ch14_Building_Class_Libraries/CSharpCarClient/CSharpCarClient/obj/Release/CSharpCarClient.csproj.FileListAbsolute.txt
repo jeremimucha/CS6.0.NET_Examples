@@ -1,0 +1,7 @@
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\bin\Release\CSharpCarClient.exe.config
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\bin\Release\CSharpCarClient.exe
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\bin\Release\CSharpCarClient.pdb
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\bin\Release\CarLibrary.dll
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\bin\Release\CarLibrary.pdb
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\obj\Release\CSharpCarClient.exe
+G:\C#\C#60_NET46\Ch14_Building_Class_Libraries\CSharpCarClient\CSharpCarClient\obj\Release\CSharpCarClient.pdb

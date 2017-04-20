@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch9_Collections_and_Generics\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe.config
+G:\C#\C#60_NET46\Ch9_Collections_and_Generics\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe
+G:\C#\C#60_NET46\Ch9_Collections_and_Generics\CustomGenericMethods\CustomGenericMethods\bin\Debug\CustomGenericMethods.pdb
+G:\C#\C#60_NET46\Ch9_Collections_and_Generics\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch9_Collections_and_Generics\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.exe
+G:\C#\C#60_NET46\Ch9_Collections_and_Generics\CustomGenericMethods\CustomGenericMethods\obj\Debug\CustomGenericMethods.pdb

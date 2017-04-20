@@ -1,0 +1,8 @@
+G:\C#\C#60_NET46\Ch21_ADO.NET\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.exe.config
+G:\C#\C#60_NET46\Ch21_ADO.NET\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.exe
+G:\C#\C#60_NET46\Ch21_ADO.NET\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.pdb
+G:\C#\C#60_NET46\Ch21_ADO.NET\AdoNetTransaction\AdoNetTransaction\bin\Debug\AutoLotDAL.dll
+G:\C#\C#60_NET46\Ch21_ADO.NET\AdoNetTransaction\AdoNetTransaction\bin\Debug\AutoLotDAL.pdb
+G:\C#\C#60_NET46\Ch21_ADO.NET\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch21_ADO.NET\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.exe
+G:\C#\C#60_NET46\Ch21_ADO.NET\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.pdb

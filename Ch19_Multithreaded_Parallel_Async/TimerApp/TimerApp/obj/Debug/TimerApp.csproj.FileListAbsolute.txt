@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\TimerApp\TimerApp\bin\Debug\TimerApp.exe.config
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\TimerApp\TimerApp\bin\Debug\TimerApp.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\TimerApp\TimerApp\bin\Debug\TimerApp.pdb
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\TimerApp\TimerApp\obj\Debug\TimerApp.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\TimerApp\TimerApp\obj\Debug\TimerApp.exe
+G:\C#\C#60_NET46\Ch19_Multithreaded_Parallel_Async\TimerApp\TimerApp\obj\Debug\TimerApp.pdb

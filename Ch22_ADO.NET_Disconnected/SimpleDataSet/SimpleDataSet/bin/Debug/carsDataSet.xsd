@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Car_x0020_Inventory" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+  <xs:element name="Car_x0020_Inventory" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:TimeStamp="04/19/2017 22:33:44" msprop:DataSetID="d523ea81-1cc6-44c6-aa41-f98156564c8c" msprop:Company="Mikko's Hot Tub Super Store">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Inventory">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CarID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msdata:Caption="Car ID" type="xs:int" />
+              <xs:element name="Make" type="xs:string" minOccurs="0" />
+              <xs:element name="Color" type="xs:string" minOccurs="0" />
+              <xs:element name="PetName" msdata:Caption="Pet Name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//Inventory" />
+      <xs:field xpath="CarID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

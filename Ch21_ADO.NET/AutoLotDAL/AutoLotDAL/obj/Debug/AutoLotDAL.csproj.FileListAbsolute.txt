@@ -1,0 +1,5 @@
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+G:\C#\C#60_NET46\Ch21_ADO.NET\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.pdb

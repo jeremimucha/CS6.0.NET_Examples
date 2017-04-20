@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.exe.config
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.exe
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleFinalize\SimpleFinalize\bin\Debug\SimpleFinalize.pdb
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.exe
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleFinalize\SimpleFinalize\obj\Debug\SimpleFinalize.pdb

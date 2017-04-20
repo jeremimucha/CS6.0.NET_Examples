@@ -1,0 +1,7 @@
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CSharpSnapIn\CSharpSnapIn\bin\Release\CSharpSnapIn.dll
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CSharpSnapIn\CSharpSnapIn\bin\Release\CSharpSnapIn.pdb
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CSharpSnapIn\CSharpSnapIn\bin\Release\CommonSnappableTypes.dll
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CSharpSnapIn\CSharpSnapIn\bin\Release\CommonSnappableTypes.pdb
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CSharpSnapIn\CSharpSnapIn\obj\Release\CSharpSnapIn.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CSharpSnapIn\CSharpSnapIn\obj\Release\CSharpSnapIn.dll
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyExtendableApp\CSharpSnapIn\CSharpSnapIn\obj\Release\CSharpSnapIn.pdb

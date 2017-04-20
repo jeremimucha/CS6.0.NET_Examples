@@ -1,6 +1,6 @@
-C:\Users\muchajer\Documents\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe.config
-C:\Users\muchajer\Documents\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe
-C:\Users\muchajer\Documents\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\bin\Debug\SimpleGC.pdb
-C:\Users\muchajer\Documents\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\obj\Debug\SimpleGC.csprojResolveAssemblyReference.cache
-C:\Users\muchajer\Documents\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\obj\Debug\SimpleGC.exe
-C:\Users\muchajer\Documents\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\obj\Debug\SimpleGC.pdb
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe.config
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\bin\Debug\SimpleGC.exe
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\bin\Debug\SimpleGC.pdb
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\obj\Debug\SimpleGC.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\obj\Debug\SimpleGC.exe
+G:\C#\C#60_NET46\Ch13_Object_Lifetime\SimpleGC\SimpleGC\obj\Debug\SimpleGC.pdb

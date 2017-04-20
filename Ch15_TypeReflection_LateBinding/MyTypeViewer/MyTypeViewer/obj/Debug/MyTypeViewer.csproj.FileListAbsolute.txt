@@ -1,0 +1,6 @@
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyTypeViewer\MyTypeViewer\bin\Debug\MyTypeViewer.exe.config
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyTypeViewer\MyTypeViewer\bin\Debug\MyTypeViewer.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyTypeViewer\MyTypeViewer\bin\Debug\MyTypeViewer.pdb
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyTypeViewer\MyTypeViewer\obj\Debug\MyTypeViewer.csprojResolveAssemblyReference.cache
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyTypeViewer\MyTypeViewer\obj\Debug\MyTypeViewer.exe
+G:\C#\C#60_NET46\Ch15_TypeReflection_LateBinding\MyTypeViewer\MyTypeViewer\obj\Debug\MyTypeViewer.pdb

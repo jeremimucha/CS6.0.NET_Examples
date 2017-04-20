@@ -1,0 +1,6 @@
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AsyncCallbackDelegate\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.exe.config
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AsyncCallbackDelegate\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AsyncCallbackDelegate\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.pdb
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AsyncCallbackDelegate\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.csprojResolveAssemblyReference.cache
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AsyncCallbackDelegate\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.exe
+C:\Users\muchajer\Documents\C#\C#60_NET46\Ch18_Multithreaded_Parallel_Async\AsyncCallbackDelegate\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.pdb
